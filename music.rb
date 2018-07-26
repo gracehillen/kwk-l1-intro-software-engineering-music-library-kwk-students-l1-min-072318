@@ -1,4 +1,4 @@
-def list_artists
+def list_artists(lib)
   
 
 
